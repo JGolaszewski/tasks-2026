@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 # Load .env file if present
 load_dotenv()
 
-ENDPOINT = "task1"
+ENDPOINT = "task4"
 
 
 API_TOKEN = os.getenv("TEAM_TOKEN")
